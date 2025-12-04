@@ -62,24 +62,6 @@
             box-shadow: 0 0 0 3px rgba(255, 184, 77, 0.1);
         }
 
-        .footer-text {
-            position: absolute;
-            font-size: 14px;
-            font-weight: 500;
-            color: #FFB84D;
-            letter-spacing: 0.5px;
-        }
-
-        .footer-left {
-            bottom: 40px;
-            left: 40px;
-        }
-
-        .footer-right {
-            bottom: 40px;
-            right: 40px;
-        }
-
         @media (max-width: 768px) {
             .form-section {
                 margin-left: 20px;
@@ -87,18 +69,5 @@
 
             .form-input {
                 width: 280px;
-            }
-
-            .footer-text {
-                font-size: 12px;
-                bottom: 20px;
-            }
-
-            .footer-left {
-                left: 20px;
-            }
-
-            .footer-right {
-                right: 20px;
             }
         }
